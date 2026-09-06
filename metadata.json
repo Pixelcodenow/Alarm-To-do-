@@ -1,0 +1,6 @@
+{
+  "name": "FocusAlarm",
+  "description": "Smart alarm, wake-up missions, Pomodoro focus timer, breathwork exercises, and task planner with dark glassmorphic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
